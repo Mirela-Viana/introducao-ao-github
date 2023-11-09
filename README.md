@@ -58,6 +58,16 @@ Branches allow you to separate your work from the `main` branch. In other words,
    The **main** branch drop-down bar will reflect your new branch and display the new branch name.
 
 6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+   
+ # Etapas para gerenciar um projeto GitHub
+
+ **Criar ou clonar um repositório**
+ **Criar uma nova Branch**
+ **Fazer as alterações nos arquivos**
+ **Executar comandos Commit**
+ **Solicitr a mesclagem do código com o pull request**
+ **Realizar o Marge do código para a branch principal**
+ 
 
 <footer>
 
